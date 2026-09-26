@@ -1,0 +1,57 @@
+{
+  "name": "charme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A local-first floating desktop charm widget",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build-id.mjs && tsc --noEmit && vite build && node scripts/build.mjs",
+    "start": "npm run build && electron .",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "package": "npm run build && electron-builder --mac dir",
+    "dist": "npm run build && electron-builder --mac dmg zip"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "0.20.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "0.186.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/three": "0.186.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "axe-core": "4.13.0",
+    "electron": "44.4.3",
+    "electron-builder": "26.15.3",
+    "esbuild": "0.28.2",
+    "prettier": "3.9.8",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2",
+    "vite": "8.3.0"
+  },
+  "main": "dist-electron/main.js",
+  "build": {
+    "appId": "com.charme.desktop",
+    "productName": "Charme",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "package.json"
+    ],
+    "mac": {
+      "category": "public.app-category.productivity",
+      "target": [
+        "dmg",
+        "zip"
+      ],
+      "identity": null
+    }
+  }
+}

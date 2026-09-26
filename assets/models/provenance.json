@@ -1,0 +1,69 @@
+{
+  "policy": "All 3D models must be generated through Magnific. No hand-authored or procedural replacement models.",
+  "assets": [
+    {
+      "name": "duck",
+      "provider": "Magnific",
+      "sourceImage": "DoFGTkypcl",
+      "modelCreation": "cpf3Y6A0eP",
+      "generator": "tripo-p1",
+      "faceLimit": 10000,
+      "status": "completed",
+      "file": "duck.glb"
+    },
+    {
+      "name": "hoop",
+      "provider": "Magnific",
+      "sourceImage": "O60L5KYynm",
+      "modelCreation": "SyzkqHwUb8",
+      "generator": "tripo-p1",
+      "file": "../../public/models/hoop.glb",
+      "status": "downloaded; native visual review pending"
+    },
+    {
+      "name": "bottle",
+      "provider": "Magnific",
+      "sourceImage": "ksNEtCZ16B",
+      "modelCreation": "u5wIXawQLD",
+      "generator": "tripo-p1",
+      "file": "../../public/models/bottle.glb",
+      "status": "downloaded; water material feasibility pending"
+    },
+    {
+      "name": "chain",
+      "provider": "Magnific",
+      "sourceImage": "WDfextRcXe",
+      "modelCreation": "CqU5ZhOEEy",
+      "generator": "tripo-p1",
+      "file": "../../public/models/chain.glb",
+      "status": "downloaded"
+    },
+    {
+      "name": "notebook",
+      "provider": "Magnific",
+      "sourceImage": "p8qtUQ9ehw",
+      "modelCreation": "vQlHivwa47",
+      "generator": "tripo-p1",
+      "file": "../../public/models/notebook.glb",
+      "status": "downloaded"
+    },
+    {
+      "name": "car",
+      "provider": "Magnific",
+      "sourceImage": "bx4LWPs5Y2",
+      "modelCreation": "husFifXvqL",
+      "generator": "tripo-p1",
+      "file": "../../public/models/car.glb",
+      "status": "downloaded"
+    },
+    {
+      "name": "tag",
+      "provider": "Magnific",
+      "sourceImage": "rg3UM3hxtc",
+      "modelCreation": "0eEXseiTfW",
+      "generator": "tripo-p1",
+      "file": "../../public/models/tag.glb",
+      "status": "downloaded"
+    }
+  ]
+}

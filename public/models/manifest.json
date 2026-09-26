@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "hoop",
+      "name": "Chrome hoop",
+      "model": "models/hoop.glb",
+      "rotation": [
+        0,
+        1.5707963267948966,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "SyzkqHwUb8",
+      "review": "downloaded; composing final view",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4
+    },
+    {
+      "id": "bottle",
+      "name": "Water bottle",
+      "model": "models/bottle.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "u5wIXawQLD",
+      "review": "downloaded; composing final view",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4
+    },
+    {
+      "id": "duck",
+      "name": "Ducky",
+      "model": "models/duck.glb",
+      "rotation": [
+        0,
+        -1.0471975512,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "creation": "cpf3Y6A0eP",
+      "review": "downloaded; composing final view",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4,
+      "thumbnail": "models/duck.png",
+      "category": "Classics"
+    },
+    {
+      "id": "chain",
+      "name": "Chrome chain",
+      "model": "models/chain.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "CqU5ZhOEEy",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4,
+      "review": "downloaded; composing final view"
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "model": "models/notebook-emboss.glb",
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "xSZw7w0jfW",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4,
+      "review": "Magnific raised gear notebook; native orientation verification required",
+      "preserveMaterials": true
+    },
+    {
+      "id": "car",
+      "name": "Orange coupe",
+      "model": "models/car.glb",
+      "rotation": [
+        0.15,
+        -0.6,
+        0.65
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "creation": "husFifXvqL",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4,
+      "review": "downloaded; composing final view",
+      "thumbnail": "models/car.png",
+      "category": "Classics"
+    },
+    {
+      "id": "tag",
+      "name": "Name tag",
+      "model": "models/tag.glb",
+      "rotation": [
+        0,
+        1.5707963267948966,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "0eEXseiTfW",
+      "attachment": [
+        0,
+        1,
+        0
+      ],
+      "motionLimit": 0.4,
+      "review": "downloaded; composing final view",
+      "thumbnail": "models/tag.png",
+      "category": "Classics"
+    },
+    {
+      "id": "bottle-shell",
+      "name": "Bottle Shell",
+      "model": "models/bottle-shell.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "DoHITkcpcl",
+      "review": "basic feasibility inspected; final acceptance pending"
+    },
+    {
+      "id": "liquid",
+      "name": "Liquid",
+      "model": "models/liquid.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "yiVR7oaPW9",
+      "review": "basic feasibility inspected; final acceptance pending"
+    },
+    {
+      "id": "liquid-surface",
+      "name": "Liquid Surface",
+      "model": "models/liquid-surface.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "lJGyjpQgv9",
+      "review": "basic feasibility inspected; final acceptance pending"
+    },
+    {
+      "id": "chain-link",
+      "name": "Chain Link",
+      "model": "models/chain-link.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "role": "fixed",
+      "provider": "Magnific",
+      "creation": "XmKvpOaBfo",
+      "review": "basic feasibility inspected; final acceptance pending"
+    },
+    {
+      "id": "spiked-ball",
+      "name": "Spiked tennis ball",
+      "category": "Objects",
+      "creation": "mEsQFCDhJQ",
+      "model": "models/spiked-ball.glb",
+      "thumbnail": "models/spiked-ball.png",
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "readiness": "ready",
+      "preserveMaterials": true,
+      "resources": {
+        "triangles": 18627,
+        "primitives": 1,
+        "textureBytes": 16777218
+      },
+      "bounds": [
+        0.996091902256012,
+        0.9785052537918089,
+        1
+      ],
+      "review": "Magnific PBR materials; embedded maps optimized to 1024px. Browser visual inspection; native acceptance pending.",
+      "redistribution": "Not verified for public distribution",
+      "textureOptimization": "Embedded textures reduced to 1024px; geometry unchanged",
+      "materialCreation": "0euBMpCTfW",
+      "defaultAttachment": [
+        -0.04067377485394589,
+        0.4421949429168704,
+        0.10478846698941562
+      ]
+    },
+    {
+      "id": "blue-cat",
+      "name": "Blue star cat",
+      "category": "Characters",
+      "creation": "xSZwBC9jfW",
+      "model": "models/blue-cat.glb",
+      "thumbnail": "models/blue-cat.png",
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "readiness": "ready",
+      "preserveMaterials": true,
+      "resources": {
+        "triangles": 17134,
+        "primitives": 1,
+        "textureBytes": 16777218
+      },
+      "bounds": [
+        0.6502198576927186,
+        1,
+        0.5730336904525758
+      ],
+      "review": "Magnific PBR materials; embedded maps optimized to 1024px. Browser visual inspection; native acceptance pending.",
+      "redistribution": "Not verified for public distribution",
+      "textureOptimization": "Embedded textures reduced to 1024px; geometry unchanged",
+      "materialCreation": "s7GySJdl8e",
+      "defaultAttachment": [
+        0.0016361147339377744,
+        0.43814756010992195,
+        0.006704421122390963
+      ]
+    },
+    {
+      "id": "white-sports-car",
+      "name": "White sports car",
+      "category": "Cars",
+      "creation": "KL6lpHjkqp",
+      "model": "models/white-sports-car.glb",
+      "thumbnail": "models/white-sports-car.png",
+      "rotation": [
+        0,
+        -1.05,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "readiness": "ready",
+      "preserveMaterials": true,
+      "resources": {
+        "triangles": 17439,
+        "primitives": 1,
+        "textureBytes": 16777218
+      },
+      "bounds": [
+        0.819336316383308,
+        0.26915081944684255,
+        1
+      ],
+      "review": "Magnific PBR materials; embedded maps optimized to 1024px. Browser visual inspection; native acceptance pending.",
+      "redistribution": "Not verified for public distribution",
+      "textureOptimization": "Embedded textures reduced to 1024px; geometry unchanged",
+      "materialCreation": "tCLQvF5mZJ",
+      "defaultAttachment": [
+        -0.015789109860828432,
+        0.1265211474439665,
+        -0.03244292636060194
+      ]
+    },
+    {
+      "id": "motorsport-coupe",
+      "name": "Motorsport coupe",
+      "category": "Cars",
+      "creation": "LwAJIwLswO",
+      "model": "models/motorsport-coupe.glb",
+      "thumbnail": "models/motorsport-coupe.png",
+      "rotation": [
+        0,
+        -1.05,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "readiness": "ready",
+      "preserveMaterials": true,
+      "resources": {
+        "triangles": 17624,
+        "primitives": 1,
+        "textureBytes": 16777218
+      },
+      "bounds": [
+        0.8266411918504065,
+        0.2696711172592793,
+        1
+      ],
+      "review": "Magnific PBR materials; embedded maps optimized to 1024px. Browser visual inspection; native acceptance pending.",
+      "redistribution": "Not verified for public distribution",
+      "textureOptimization": "Embedded textures reduced to 1024px; geometry unchanged",
+      "materialCreation": "6AXnRcviJO",
+      "defaultAttachment": [
+        -0.01210341985507742,
+        0.12800442581952837,
+        -0.022430610251250482
+      ]
+    },
+    {
+      "id": "soda-blaster",
+      "name": "Soda blaster",
+      "category": "Objects",
+      "creation": "O6V3unNynm",
+      "model": "models/soda-blaster.glb",
+      "thumbnail": "models/soda-blaster.png",
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "readiness": "ready",
+      "preserveMaterials": true,
+      "resources": {
+        "triangles": 18746,
+        "primitives": 1,
+        "textureBytes": 16777218
+      },
+      "bounds": [
+        1,
+        0.85246708549461,
+        0.9237910188374228
+      ],
+      "review": "Magnific PBR materials; embedded maps optimized to 1024px. Browser visual inspection; native acceptance pending.",
+      "redistribution": "Not verified for public distribution",
+      "textureOptimization": "Embedded textures reduced to 1024px; geometry unchanged",
+      "materialCreation": "LwAOgNfswO",
+      "defaultAttachment": [
+        0,
+        0.3925256548084513,
+        0
+      ]
+    },
+    {
+      "id": "energy-canister",
+      "name": "Energy canister",
+      "category": "Objects",
+      "creation": "N2dGbBJ6D9",
+      "model": "models/energy-canister.glb",
+      "thumbnail": "models/energy-canister.png",
+      "rotation": [
+        0,
+        -1.5707963267948966,
+        0
+      ],
+      "role": "decoration",
+      "provider": "Magnific",
+      "readiness": "ready",
+      "preserveMaterials": true,
+      "resources": {
+        "triangles": 17730,
+        "primitives": 1,
+        "textureBytes": 16777218
+      },
+      "bounds": [
+        0.48705422878265386,
+        1,
+        0.3502686917781831
+      ],
+      "review": "Magnific PBR materials; embedded maps optimized to 1024px. Browser visual inspection; native acceptance pending.",
+      "redistribution": "Not verified for public distribution",
+      "textureOptimization": "Embedded textures reduced to 1024px; geometry unchanged",
+      "materialCreation": "1l3Uj99r4r",
+      "defaultAttachment": [
+        0.028089888393878937,
+        0.48680996894836426,
+        -6.938893903907228e-18
+      ]
+    }
+  ]
+}
