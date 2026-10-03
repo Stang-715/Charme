@@ -33,7 +33,7 @@ Build: **cf6663decf35**, version 0.1.0, Apple Silicon / arm64. Unsigned developm
 - No measured frame-time or long-duration GPU/memory trend report. No instrumented proof of zero idle frames. Model preview currently reconstructs its isolated renderer when placement/name parameters change; resource disposal is implemented but sustained measurements remain required.
 - Preview attachment marker positioning during camera orbit needs further polish. The first-use notebook help hint and imported-model thumbnail generation are not yet implemented (imports use a neutral placeholder).
 - Native temporary preview ownership is intentionally limited to the single native hub. Browser clients edit through their inline arrangement preview and cannot take over the desktop preview.
-- Generated lettering and branded markings are approximate; the models are not certified replicas. Public model redistribution rights remain unverified. No public publication, signing or notarization was performed. The app still uses the default Electron application icon.
+- Generated lettering and branded markings are approximate; the models are not certified replicas. Public model redistribution rights remain unverified. The browser preview is public on GitHub Pages. Signing and notarization remain incomplete. The app still uses the default Electron application icon.
 
 These limitations keep the formal release gate closed. This package is for review and continued native testing, not a claim that every interaction or accessibility scenario passed.
 
