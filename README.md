@@ -60,3 +60,9 @@ All replacement model geometry comes through Magnific; uploaded GLBs are user su
 Read [Collector Studio evidence and remaining gates](docs/COLLECTOR_STUDIO_BETA.md) and [editorial showcase verification](docs/EDITORIAL_SHOWCASE.md). Browser observations and automated checks do not establish native VoiceOver, click-through, sleep/lock, monitor-change or sustained performance acceptance.
 
 The public showcase uses real scene/component captures with fictional state. It does not present AI campaign artwork as actual application behavior.
+
+## Blue editorial edition
+
+[Watch the 24-second film](https://stang-715.github.io/Charme/#film) · [Presentation PDF](https://stang-715.github.io/Charme/editorial/downloads/Charme-presentation.pdf) · [Editable PPTX](https://stang-715.github.io/Charme/editorial/downloads/Charme-presentation.pptx)
+
+Soft blue gradients, white object studies and a landscape desktop mockup. The film uses the existing Magnific models with connected-chain motion; its motion is art-directed, not a recording of live app physics. HDR-style lighting is delivered in standard SDR.
