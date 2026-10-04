@@ -33,3 +33,7 @@ The browser widget fixture does not implement the full native timer service. The
 - Earlier presentation and film editions were preserved. PDF is a static image-based export, not a tagged accessible document; presentation text remains editable in PPTX.
 
 Native installer, VoiceOver and full native app acceptance remain outside this visual publication update.
+
+## Car film revision
+
+The last nine seconds (15–24s) now include the Orange coupe alongside the duck, bottle and notebook. The car has an independent generated-link tether. Both the full 24-second film and a separate nine-second cut are downloadable. The earlier editions remain preserved in the local delivery folders.
